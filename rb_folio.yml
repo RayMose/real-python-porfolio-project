@@ -1,0 +1,9 @@
+name: rb_folio
+channels:
+    - conda-forge
+dependencies:
+    - Django=2.2.1
+    - pytz=2019.1
+    - sqlparse=0.3.0
+    - pip=19.1.1
+    - setuptools=39.0.1
